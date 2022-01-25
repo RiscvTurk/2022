@@ -4,20 +4,20 @@
 
 RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıkları
 
-*[.underline]#bu#* komşu, *[.underline]#şu#* yakın, *[.underline]#o#* uzak
+*bu* komşu, *şu* yakın, *o* uzak
 
 |===
 ||değer|uzaklık
 
-|*[.underline]#bu#*
+|*bu*
 |anlık _"immediate"_
 |komşu
 
-|*[.underline]#şu#*
+|*şu*
 |kayıt _"register"_
 |yakın
 
-|*[.underline]#o#*
+|*o*
 |bellek _"memory"_
 |uzak
 |===
