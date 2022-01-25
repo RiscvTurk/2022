@@ -1,1 +1,23 @@
 = 2022
+
+== 01
+
+RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıkları
+
+*[.underline]#bu#* komşu, *[.underline]#şu#* yakın, *[.underline]#o#* uzak
+
+|===
+||değer|uzaklık
+
+|*[.underline]#bu#*
+|anlık _"immediate"_
+|komşu
+
+|*[.underline]#şu#*
+|kayıt _"register"_
+|yakın
+
+|*[.underline]#o#*
+|bellek _"memory"_
+|uzak
+|===
