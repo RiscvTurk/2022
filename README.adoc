@@ -1,5 +1,41 @@
 = 2022
 
+== 02
+
+RISC-V Vektör _"Vector"_ Belirtimine _"Specification"_ göre uzunluk _"length"_
+
+|===
+|uzunluk|işlem
+
+|skaler _"scalar"_ yönergesi _"instruction"_ ise
+|bir işlenende _"operand"_
+
+tek (bir) öge _"element"_ var,
+
+işlemler _"operation"_
+
+hep 1 öge _"element"_ için
+
+|vektör _"vector"_ yönergesi _"instruction"_ ise
+|bir işlenende _"operand"_
+
+çok (≥ 0) öge _"element"_ var,
+
+işlemin _"operation"_
+
+vl yapılandırması _"configuration"_
+
+(vl = vektör _"vector"_ uzunluğu _"length"_)
+
+sayıyı _"number"_ belirler:
+
+vl = 1 ise, işlem 1 öge _"element"_ için
+
+vl = 32 ise, işlem 32 öge _"element"_ için
+
+vl = 0 ise, işlem 0 öge _"element"_ için
+|===
+
 == 01
 
 RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıkları
@@ -21,3 +57,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |bellek _"memory"_
 |uzak
 |===
+
+== Sözlük _"Dictionary"_
+
+=== Türkçe => İngilizce
+
+=== English => Turkish
