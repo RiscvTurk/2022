@@ -107,13 +107,13 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |register
 
 |kaynak
-|resource
-
-|kaynak
 |source
 
 |o
 |that
+
+|özkaynak
+|resource
 
 |referans
 |reference
@@ -212,7 +212,7 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |referans
 
 |resource
-|kaynak
+|özkaynak
 
 |register
 |kayıt
