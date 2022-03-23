@@ -88,6 +88,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |değer
 |value
 
+|depo
+|repository
+
 |ile
 |and
 
@@ -211,11 +214,14 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |reference
 |referans
 
-|resource
-|özkaynak
-
 |register
 |kayıt
+
+|repository
+|depo
+
+|resource
+|özkaynak
 
 |RISC-V
 |RISC-V
