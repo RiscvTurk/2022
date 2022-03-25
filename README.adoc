@@ -5,6 +5,16 @@ toc::[]
 
 == 2022
 
+=== 03
+
+RISC-V
+
+Açık _"Open"_ Kaynak _"Source"_ Belirtim _"Specification"_ Depoları _"Repositories"_
+
+https://github.com/riscv
+
+Referanslar _"References"_
+
 === 02
 
 RISC-V Vektör _"Vector"_ Belirtimine _"Specification"_ göre uzunluk _"length"_
