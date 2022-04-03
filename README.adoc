@@ -125,6 +125,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |kaynak
 |source
 
+|küme
+|set
+
 |o
 |that
 
@@ -256,6 +259,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |scalar
 |skaler
+
+|set
+|küme
 
 |source
 |kaynak
