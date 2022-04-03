@@ -86,6 +86,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |anlık
 |immediate
 
+|basit
+|basic
+
 |belirtim
 |specification
 
@@ -134,6 +137,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |RISC-V
 |RISC-V
 
+|RV32I
+|RV32I
+
 |sayı
 |number
 
@@ -145,6 +151,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |sözlükçe
 |glossary
+
+|taban
+|base
 
 |Türkçe
 |Turkish
@@ -178,6 +187,12 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |and
 |ile
+
+|base
+|taban
+
+|basic
+|basit
 
 |configuration
 |yapılandırma
@@ -235,6 +250,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |RISC-V
 |RISC-V
+
+|RV32I
+|RV32I
 
 |scalar
 |skaler
