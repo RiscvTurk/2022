@@ -131,6 +131,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |o
 |that
 
+|örnek
+|example
+
 |özkaynak
 |resource
 
@@ -208,6 +211,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |English
 |İngilizce
+
+|example
+|örnek
 
 |glossary
 |sözlükçe
