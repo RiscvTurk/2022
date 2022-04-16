@@ -107,6 +107,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |ile
 |and
 
+|ilk
+|first
+
 |ise
 |if
 
@@ -151,6 +154,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |skaler
 |scalar
+
+|son
+|last
 
 |sözlük
 |dictionary
@@ -215,6 +221,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |example
 |örnek
 
+|first
+|ilk
+
 |glossary
 |sözlükçe
 
@@ -226,6 +235,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |instruction
 |yönerge
+
+|last
+|son
 
 |length
 |uzunluk
