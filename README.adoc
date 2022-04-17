@@ -7,6 +7,38 @@ toc::[]
 
 === 04
 
+|===
+
+2.1+|RISC-V RV32I Kümesi _"Set"_
+
+2.1+|"anlığı _"immediate_" ekle _"add"_" yönergesi _"instruction"_
+
+1.2+|addi
+
+1.1+|addi rd, rs1, imm
+
+1.1+|R[rd] = R[rs1] + 1
+
+1.1+|Örnek _"Example"_ 1
+
+1.1+|Örnek _"Example"_ 2
+
+1.1+|# ilk: a0 = 7
+
+addi a0, a0, 10
+
+# son: a0 = 17
+
+1.1+|# ilk: a0 = 70, a1 = 9
+
+addi a0, a0, 4
+
+addi a1, a0, 8
+
+# son: a0 = 74, a1 = 82
+
+|===
+
 === 03
 
 RISC-V
