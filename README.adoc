@@ -132,6 +132,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |bellek
 |memory
 
+|betim
+|description
+
 |bu
 |this
 
@@ -207,6 +210,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |taban
 |base
 
+|tanım
+|definition
+
 |tür
 |type
 
@@ -254,6 +260,12 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |configuration
 |yapılandırma
+
+|definition
+|tanım
+
+|description
+|betim
 
 |dictionary
 |sözlük
