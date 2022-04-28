@@ -117,6 +117,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |açık
 |open
 
+|ad
+|name
+
 |anlık
 |immediate
 
@@ -278,6 +281,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |memory
 |bellek
+
+|name
+|ad
 
 |number
 |sayı
