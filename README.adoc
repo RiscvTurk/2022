@@ -213,6 +213,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |tanım
 |definition
 
+|tasarım
+|design
+
 |tür
 |type
 
@@ -266,6 +269,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |description
 |betim
+
+|design
+|tasarım
 
 |dictionary
 |sözlük
