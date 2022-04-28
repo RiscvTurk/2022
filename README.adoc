@@ -120,6 +120,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |ad
 |name
 
+|analog
+|analog
+
 |anlık
 |immediate
 
@@ -143,6 +146,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |depo
 |repository
+
+|dijital
+|digital
 
 |ile
 |and
@@ -275,6 +281,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |dictionary
 |sözlük
+
+|digital
+|dijital
 
 |element
 |öge
