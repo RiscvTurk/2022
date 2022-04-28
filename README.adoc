@@ -165,6 +165,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |kaynak
 |source
 
+|komut
+|command
+
 |küme
 |set
 
@@ -204,6 +207,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |taban
 |base
 
+|tür
+|type
+
 |Türkçe
 |Turkish
 
@@ -242,6 +248,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |basic
 |basit
+
+|command
+|komut
 
 |configuration
 |yapılandırma
@@ -338,6 +347,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |Turkish
 |Türkçe
+
+|type
+|tür
 
 |value
 |değer
