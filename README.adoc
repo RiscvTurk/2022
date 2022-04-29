@@ -144,9 +144,6 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |değer
 |value
 
-|demo
-|demonstration
-
 |depo
 |repository
 
@@ -285,9 +282,6 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |definition
 |tanım
-
-|demonstration
-|demo
 
 |depiction
 |gösterim
