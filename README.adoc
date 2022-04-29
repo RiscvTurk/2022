@@ -195,6 +195,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |referans
 |reference
 
+|reklam
+|advertisement
+
 |RISC-V
 |RISC-V
 
@@ -221,6 +224,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |tanım
 |definition
+
+|tanıtım
+|demonstration
 
 |tasarım
 |design
@@ -251,12 +257,16 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |şu
 |that here
+
 |===
 
 === English => Turkish
 
 |===
 |English|Turkish
+
+|advertisement
+|reklam
 
 |and
 |ile
@@ -275,6 +285,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |definition
 |tanım
+
+|demonstration
+|tanıtım
 
 |depiction
 |gösterim
@@ -392,4 +405,5 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 |vl
 |vektör uzunluğu
+
 |===
