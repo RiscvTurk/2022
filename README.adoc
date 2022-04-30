@@ -240,9 +240,6 @@ RISC-V buyruklara _"instructions"_ göre değerler _"values"_ ile uzaklıkları
 |vektör
 |vector
 
-|vektör uzunluğu
-|vl
-
 |yapılandırma
 |configuration
 
@@ -396,8 +393,5 @@ RISC-V buyruklara _"instructions"_ göre değerler _"values"_ ile uzaklıkları
 
 |vector
 |vektör
-
-|vl
-|vektör uzunluğu
 
 |===
