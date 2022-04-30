@@ -141,6 +141,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |bu
 |this
 
+|buyruk
+|instruction
+
 |değer
 |value
 
@@ -244,7 +247,7 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |configuration
 
 |yönerge
-|instruction
+|directive
 
 |öge
 |element
@@ -292,6 +295,9 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |digital
 |dijital
 
+|directive
+|yönerge
+
 |element
 |öge
 
@@ -314,7 +320,7 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |anlık
 
 |instruction
-|yönerge
+|buyruk
 
 |last
 |son
