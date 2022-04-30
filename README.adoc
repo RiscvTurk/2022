@@ -11,7 +11,7 @@ toc::[]
 
 2.1+|RISC-V RV32I Kümesi _"Set"_
 
-2.1+|"anlığı _"immediate_" ekle _"add"_" yönergesi _"instruction"_
+2.1+|"anlığı _"immediate_" ekle _"add"_" buyruğu _"instruction"_
 
 1.2+|addi
 
@@ -56,7 +56,7 @@ RISC-V Vektör _"Vector"_ Belirtimine _"Specification"_ göre uzunluk _"length"_
 |===
 |uzunluk|işlem
 
-|skaler _"scalar"_ yönergesi _"instruction"_ ise
+|skaler _"scalar"_ buyruğu _"instruction"_ ise
 |bir işlenende _"operand"_
 
 tek (bir) öge _"element"_ var,
@@ -65,7 +65,7 @@ işlemler _"operation"_
 
 hep 1 öge _"element"_ için
 
-|vektör _"vector"_ yönergesi _"instruction"_ ise
+|vektör _"vector"_ buyruğu _"instruction"_ ise
 |bir işlenende _"operand"_
 
 çok (≥ 0) öge _"element"_ var,
@@ -87,7 +87,7 @@ vl = 0 ise, işlem 0 öge _"element"_ için
 
 === 01
 
-RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıkları
+RISC-V buyruklara _"instructions"_ göre değerler _"values"_ ile uzaklıkları
 
 *bu* komşu, *şu* yakın, *o* uzak
 
