@@ -141,287 +141,343 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 == Glossary => Sözlükçe, ..., ...
 
-=== English => Turkish, Kazakh + Kyrgyz, ...
+=== English (UPOS) => Turkish, Kazakh + Kyrgyz, ...
 
 |===
 |English|Turkish|Kazakh + Kyrgyz|...
 
 |add
+(VERB)
 |ekle
 |
 |
 
 |advertisement
+(NOUN)
 |reklam
 |
 |
 
 |and
+(CCONJ)
 |ile
 |
 |
 
 |base
+(NOUN)
 |taban
 |
 |
 
 |basic
+(NOUN)
 |basit
 |
 |
 
 |command
+(NOUN)
 |komut
 |
 |
 
 |concept
+(NOUN)
 |kavram
 |
 |
 
 |conceptual
+(NOUN)
 |kavramsal
 |
 |
 
 |configuration
+(NOUN)
 |yapılandırma
 |
 |
 
 |cost
+(NOUN)
 |maliyet
 |
 |
 
 |definition
+(NOUN)
 |tanım
 |
 |
 
 |description
+(NOUN)
 |betim
 |
 |
 
 |design
+(NOUN)
 |tasarım
 |
 |
 
 |dictionary
+(NOUN)
 |sözlük
 |
 |
 
 |digital
+(NOUN)
 |dijital
 |
 |
 
 |directive
+(NOUN)
 |direktif
 |
 |
 
 |element
+(NOUN)
 |öge
 |
 |
 
 |English
+(NOUN)
 |İngilizce
 |
 |
 
 |example
+(NOUN)
 |örnek
 |
 |
 
 |first
+(NOUN)
 |ilk
 |
 |
 
 |function
+(NOUN)
 |işlev
 |
 |
 
 |functional
+(NOUN)
 |işlevsel
 |
 |
 
 |glossary
+(NOUN)
 |sözlükçe
 |
 |
 
 |if
+(SCONJ)
 |ise
 |
 |
 
 |immediate
+(NOUN)
 |anlık
 |
 |
 
 |instruction
+(NOUN)
 |yönerge
 |
 |
 
 |last
+(NOUN)
 |son
 |
 |
 
 |length
+(NOUN)
 |uzunluk
 |
 |
 
 |memory
+(NOUN)
 |bellek
 |
 |
 
 |name
+(NOUN)
 |ad
 |
 |
 
 |number
+(NOUN)
 |sayı
 |
 |
 
 |open
+(NOUN)
 |açık
 |
 |
 
 |operand
+(NOUN)
 |işlenen
 |
 |
 
 |operating
+(NOUN)
 |işletim
 |
 |
 
 |operation
+(NOUN)
 |işlem
 |
 |
 
 |polishing
+(NOUN)
 |parlatma
 |
 |
 
 |product
+(NOUN)
 |ürün
 |
 |
 
 |production
+(NOUN)
 |üretim
 |
 |
 
 |reference
+(NOUN)
 |referans
 |
 |
 
 |register
+(NOUN)
 |kayıt
 |
 |
 
 |repository
+(NOUN)
 |depo
 |
 |
 
 |resource
+(NOUN)
 |özkaynak
 |
 |
 
 |RISC-V
+(NOUN)
 |RISC-V
 |
 |
 
 |RV32I
+(NOUN)
 |RV32I
 |
 |
 
 |scalar
+(NOUN)
 |skaler
 |
 |
 
 |set
+(NOUN)
 |küme
 |
 |
 
 |source
+(NOUN)
 |kaynak
 |
 |
 
 |specification
+(NOUN)
 |belirtim
 |
 |
 
 |subtract
+(VERB)
 |çıkar
 |
 |
 
 |that
+(NOUN)
 |o
 |
 |
 
 |that here
+(NOUN)
 |şu
 |
 |
 
 |this
+(NOUN)
 |bu
 |
 |
 
 |Turkish
+(NOUN)
 |Türkçe
 |
 |
 
 |type
+(NOUN)
 |tür
 |
 |
 
 |value
+(NOUN)
 |değer
 |
 |
 
 |vector
+(NOUN)
 |vektör
 |
 |
