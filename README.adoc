@@ -326,6 +326,16 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |
 |
 
+|product
+|ürün
+|
+|
+
+|production
+|üretim
+|
+|
+
 |reference
 |referans
 |
