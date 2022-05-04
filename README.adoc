@@ -171,6 +171,16 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |
 |
 
+|concept
+|kavram
+|
+|
+
+|conceptual
+|kavramsal
+|
+|
+
 |configuration
 |yapılandırma
 |
