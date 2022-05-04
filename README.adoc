@@ -191,6 +191,11 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 |
 |
 
+|cost
+|maliyet
+|
+|
+
 |definition
 |tanım
 |
