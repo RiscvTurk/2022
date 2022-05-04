@@ -143,6 +143,8 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 === English (UPOS) => Turkish, Kazakh + Kyrgyz, ...
 
+Due to the technical context and cross-lingual interchangeability, a few UPOS categories represent others, such as NOUN containing nominals and adjectivals.
+
 |===
 |English|Turkish|Kazakh + Kyrgyz|...
 
