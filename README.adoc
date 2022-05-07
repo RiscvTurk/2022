@@ -9,17 +9,17 @@ toc::[]
 
 |===
 
-2.1+|(1) RISC-V RV32I Kümesi _"Set"_
+2.1+|(1) RISC-V RV32I Kümesi (Set)
 
-2.1+|(2) sub : (3) "çıkar _"subtract"_" yönergesi _"instruction"_
+2.1+|(2) sub : (3) "çıkar (subtract)" yönergesi (instruction)
 
 2.1+|(4) sub rd, rs1, rs2
 
 2.1+|(5) R[rd] = R[rs1] - R[rs2]
 
-1.1+|(6) Örnek _"Example"_ 1
+1.1+|(6) Örnek (Example) 1
 
-1.1+|(7) Örnek _"Example"_ 2
+1.1+|(7) Örnek (Example) 2
 
 1.1+|# ilk: a0 = 71, a1 = 10
 
