@@ -146,7 +146,7 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 Due to the technical context and cross-lingual interchangeability, a few UPOS categories represent others, such as NOUN containing pronominals and adjectivals.
 
 |===
-|English|Turkish|Kazakh + Kyrgyz|...
+|English|Turkish|Kazakh + Kyrgyz + Tatar|...
 
 |add
 (VERB)
