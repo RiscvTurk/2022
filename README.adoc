@@ -180,7 +180,7 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 
 |command
 (NOUN)
-|komut
+|buyuru
 |
 |
 
@@ -361,6 +361,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |operation
 (NOUN)
 |işlem
+|
+|
+
+|order
+(NOUN)
+|emir
 |
 |
 
