@@ -75,7 +75,7 @@ addi a1, a0, 8
 
 RISC-V
 
-Açık _"Open"_ Kaynak _"Source"_ Belirtim _"Specification"_ Depoları _"Repositories"_
+Açık _"Open"_ Kaynak _"Source"_ Belirtim _"Specification"_ Repoları _"Repositories"_
 
 https://github.com/riscv
 
@@ -211,6 +211,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |definition
 (NOUN)
 |tanım
+|
+|
+
+|depository
+(NOUN)
+|depo
 |
 |
 
@@ -390,7 +396,7 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 
 |repository
 (NOUN)
-|depo
+|repo
 |
 |
 
