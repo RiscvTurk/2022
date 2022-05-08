@@ -451,7 +451,7 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |that
 (NOUN)
 |o
-|
+|ol
 |
 
 |that here
