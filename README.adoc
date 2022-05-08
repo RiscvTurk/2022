@@ -180,7 +180,13 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 
 |command
 (NOUN)
-|buyuru
+|buyruk
+|
+|
+
+|commander
+(NOUN)
+|buyrukçu
 |
 |
 
