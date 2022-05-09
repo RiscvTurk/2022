@@ -323,6 +323,13 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |
 |
 
+|high
+(NOUN)
+|yüksek
+|
+|
+|
+
 |if
 (SCONJ)
 |ise
@@ -410,6 +417,13 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |order
 (NOUN)
 |emir
+|
+|
+|
+
+|performance
+(NOUN)
+|başarım
 |
 |
 |
