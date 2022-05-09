@@ -141,16 +141,17 @@ RISC-V yönergelere _"instructions"_ göre değerler _"values"_ ile uzaklıklar�
 
 == Glossary => Sözlükçe, ..., ...
 
-=== English (UPOS) => Turkish, Kazakh + Kyrgyz + Tatar, ...
+=== English (UPOS) => Turkish, Kazakh, Kyrgyz + Tatar, ...
 
 Due to the technical context and cross-lingual interchangeability, a few UPOS categories represent others, such as NOUN containing pronominals and adjectivals.
 
 |===
-|English|Turkish|Kazakh + Kyrgyz + Tatar|...
+|English|Turkish|Kazakh|Kyrgyz + Tatar|...
 
 |add
 (VERB)
 |ekle
+|
 |
 |
 
@@ -159,10 +160,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |reklam
 |
 |
+|
 
 |and
 (CCONJ)
 |ile
+|
 |
 |
 
@@ -171,10 +174,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |taban
 |
 |
+|
 
 |basic
 (NOUN)
 |basit
+|
 |
 |
 
@@ -183,10 +188,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |buyruk
 |
 |
+|
 
 |commander
 (NOUN)
 |buyrukçu
+|
 |
 |
 
@@ -195,10 +202,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |kavram
 |
 |
+|
 
 |conceptual
 (NOUN)
 |kavramsal
+|
 |
 |
 
@@ -207,10 +216,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |yapılandırma
 |
 |
+|
 
 |cost
 (NOUN)
 |maliyet
+|
 |
 |
 
@@ -219,10 +230,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |tanım
 |
 |
+|
 
 |depository
 (NOUN)
 |depo
+|
 |
 |
 
@@ -231,10 +244,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |betim
 |
 |
+|
 
 |design
 (NOUN)
 |tasarım
+|
 |
 |
 
@@ -243,10 +258,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |sözlük
 |
 |
+|
 
 |digital
 (NOUN)
 |dijital
+|
 |
 |
 
@@ -255,10 +272,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |direktif
 |
 |
+|
 
 |element
 (NOUN)
 |öge
+|
 |
 |
 
@@ -267,10 +286,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |İngilizce
 |
 |
+|
 
 |example
 (NOUN)
 |örnek
+|
 |
 |
 
@@ -279,10 +300,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |ilk
 |
 |
+|
 
 |function
 (NOUN)
 |işlev
+|
 |
 |
 
@@ -291,10 +314,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |işlevsel
 |
 |
+|
 
 |glossary
 (NOUN)
 |sözlükçe
+|
 |
 |
 
@@ -303,10 +328,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |ise
 |
 |
+|
 
 |immediate
 (NOUN)
 |anlık
+|
 |
 |
 
@@ -315,10 +342,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |yönerge
 |
 |
+|
 
 |last
 (NOUN)
 |son
+|
 |
 |
 
@@ -327,10 +356,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |uzunluk
 |
 |
+|
 
 |memory
 (NOUN)
 |bellek
+|
 |
 |
 
@@ -339,10 +370,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |ad
 |
 |
+|
 
 |number
 (NOUN)
 |sayı
+|
 |
 |
 
@@ -351,10 +384,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |açık
 |
 |
+|
 
 |operand
 (NOUN)
 |işlenen
+|
 |
 |
 
@@ -363,10 +398,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |işletim
 |
 |
+|
 
 |operation
 (NOUN)
 |işlem
+|
 |
 |
 
@@ -375,10 +412,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |emir
 |
 |
+|
 
 |polishing
 (NOUN)
 |parlatma
+|
 |
 |
 
@@ -387,10 +426,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |ürün
 |
 |
+|
 
 |production
 (NOUN)
 |üretim
+|
 |
 |
 
@@ -399,10 +440,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |referans
 |
 |
+|
 
 |register
 (NOUN)
 |kayıt
+|
 |
 |
 
@@ -411,22 +454,26 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |repo
 |
 |
+|
 
 |resource
 (NOUN)
 |özkaynak
 |
 |
+|
 
 |RISC-V
 (NOUN)
 |RISC-V
 |
 |
+|
 
 |RV32I
 (NOUN)
 |RV32I
+|
 |
 |
 
@@ -435,10 +482,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |skaler
 |
 |
+|
 
 |set
 (NOUN)
 |küme
+|
 |
 |
 
@@ -447,10 +496,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |kaynak
 |
 |
+|
 
 |specification
 (NOUN)
 |belirtim
+|
 |
 |
 
@@ -459,16 +510,19 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |çıkar
 |
 |
+|
 
 |that
 (NOUN)
 |o
 |ol
 |
+|
 
 |that here
 (NOUN)
 |şu
+|
 |
 |
 
@@ -477,10 +531,12 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |bu
 |
 |
+|
 
 |Turkish
 (NOUN)
 |Türkçe
+|
 |
 |
 
@@ -489,16 +545,19 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |tür
 |
 |
+|
 
 |value
 (NOUN)
 |değer
 |
 |
+|
 
 |vector
 (NOUN)
 |vektör
+|
 |
 |
 
