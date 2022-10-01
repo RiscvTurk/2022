@@ -7,6 +7,18 @@ Instagram: https://instagram.com/RiscvTurk
 
 == 2022
 
+=== 10
+
+|===
+
+1.1+|(1) RISC-V
+
+1.1+|(2) Aracısız (Immediate) değer (value) nedir?
+
+1.1+|(3) Aracısız (Immediate) değer (value), bir buyruk (instruction) işleminde (operation) kayıt (register) ya da (or) bellek (memory) erişimini (access) ya da (or) aracılığını (mediation) gerektirmeyen (not require) bir işlenen (operand) sabitidir (constant).
+
+|===
+
 ////
 === 06
 
