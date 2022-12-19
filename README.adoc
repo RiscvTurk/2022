@@ -156,6 +156,13 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |
 |
 
+|corporation
+(NOUN)
+|
+|
+|
+|
+
 |cost
 (NOUN)
 |maliyet
@@ -460,6 +467,13 @@ Due to the technical context and cross-lingual interchangeability, a few UPOS ca
 |order
 (NOUN)
 |emir
+|
+|
+|
+
+|organization
+(NOUN)
+|
 |
 |
 |
